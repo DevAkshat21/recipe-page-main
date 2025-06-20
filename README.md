@@ -26,8 +26,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Github Repo ((https://github.com/DevAkshat21/social-links-profile-main))]
-- Live Site URL: [Live Site((https://devakshat21.github.io/social-links-profile-main/))]
+- Solution URL: [Github Repo ([(https://github.com/DevAkshat21/recipe-page-main)])
+- Live Site URL: [Live Site(https://devakshat21.github.io/recipe-page-main/]
 
 ## My process
 
